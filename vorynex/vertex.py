@@ -8,7 +8,7 @@
 
   VERTEX  —  Visual Exposure & Risk Topology EXaminer
   Purple Team Assessment Platform  v1.0.0
-  Engineered by Anis El Brini
+  Engineered by Anas Labrini
 
   Usage   : python vertex.py [--mode network|endpoint|full]
   Output  : vertex_report_<timestamp>.html
@@ -84,7 +84,7 @@ except ImportError:
 
 PLATFORM_VERSION  = "1.0.0"
 PLATFORM_NAME     = "VERTEX — Visual Exposure & Risk Topology EXaminer"
-PLATFORM_AUTHOR   = "Anis El Brini"
+PLATFORM_AUTHOR   = "Anas Labrini"
 SESSION_START     = datetime.datetime.now()
 SESSION_ID        = SESSION_START.strftime("%Y%m%d_%H%M%S")
 
@@ -393,7 +393,6 @@ class EnvironmentProbe:
         return ifaces
 
 class TopologyMapper:
-
 
     def __init__(self, env_data: Dict[str, Any]):
         self.env = env_data
