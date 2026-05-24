@@ -774,7 +774,7 @@ VORTEX  →  session_id = f"{hostname}_{datetime.now().strftime('%Y%m%d_%H%M%S')
 
 | Tool | Author |
 |------|--------|
-| VERTEX v1.0.0 | Anis El Brini |
+| VERTEX v1.0.0 | Anas Labrini |
 | VORTEX v2.0.0 | Anas Labrini |
 
 ---
