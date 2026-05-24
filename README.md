@@ -13,7 +13,7 @@
 
 | Tool | Version | Scope | Author |
 |------|---------|-------|--------|
-| VERTEX | v1.0.0 | Network + Endpoint | Anis El Brini |
+| VERTEX | v1.0.0 | Network + Endpoint | Anas Labrini |
 | VORTEX | v2.0.0 | Deep Endpoint Intel | Anas Labrini |
 
 > **FOR AUTHORIZED ASSESSMENT USE ONLY.**
